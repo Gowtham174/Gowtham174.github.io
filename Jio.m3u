@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2732" tvg-name="12" tvg-type="Kannada" group-title="Kannada" tvg_language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vistara_News.png" ,Vistara News
+#EXTINF:-1 tvg-id="2732" tvg-name="test1" tvg-type="Kannada1" group-title="Kannada" tvg_language="Kannada2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vistara_News.png" ,Vistara News
 https://jio.drmlive.au/jio/bpk-tv/Vistara_News_MOB/Fallback/index.m3u8
