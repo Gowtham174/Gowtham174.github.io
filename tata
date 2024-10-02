@@ -137,124 +137,85 @@ http://mega4k.one:8080/14302/14302/100471
 #EXTINF:-1 tvg-id="colorskannadahd.in" group-title="Kannada2" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
 http://mega4k.one:8080/14302/14302/119073
 
-
-
-#EXTINF:-1 tvg-id="14719" tvg-logo="" group-title="KANNADA",TATA KANNADA CINEMA
-https://allinonereborn.in/jiobe2.m3u8?id=14719
-
-#EXTINF:-1 tvg-id="1735" tvg-logo="" group-title="KANNADA",STAR SUVARNA 4K
-https://allinonereborn.in/jiobe2.m3u8?id=1735
-
-#EXTINF:-1 tvg-id="1736" tvg-logo="" group-title="KANNADA",STAR SUVARNA PLUS
-https://allinonereborn.in/jiobe2.m3u8?id=1736
-
-#EXTINF:-1 tvg-id="1734" tvg-logo="" group-title="KANNADA",STAR SUVARNA US 4K
-https://allinonereborn.in/jiobe2.m3u8?id=1734
-
-#EXTINF:-1 tvg-id="8339" tvg-logo="" group-title="KANNADA",DISCOVERY WORLD 4K*
-https://allinonereborn.in/jiobe2.m3u8?id=8339
-
-#EXTINF:-1 tvg-id="8469" tvg-logo="" group-title="KANNADA",STAR SPORTS KANNADA
-https://allinonereborn.in/jiobe2.m3u8?id=8469
-
-#EXTINF:-1 tvg-id="12523" tvg-logo="" group-title="KANNADA",KASTURI NEWS
-https://allinonereborn.in/jiobe2.m3u8?id=12523
-
-#EXTINF:-1 tvg-id="1739" tvg-logo="" group-title="KANNADA",KASTURI TV
-https://allinonereborn.in/jiobe2.m3u8?id=1739
-
-#EXTINF:-1 tvg-id="1732" tvg-logo="" group-title="KANNADA",UDAYA 4K
-https://allinonereborn.in/jiobe2.m3u8?id=1732
-
-#EXTINF:-1 tvg-id="1729" tvg-logo="" group-title="KANNADA",UDAYA COMEDY
-https://allinonereborn.in/jiobe2.m3u8?id=1729
-
-#EXTINF:-1 tvg-id="1743" tvg-logo="" group-title="KANNADA",UDAYA MUSIC
-https://allinonereborn.in/jiobe2.m3u8?id=1743
-
-#EXTINF:-1 tvg-id="1731" tvg-logo="" group-title="KANNADA",UDAYA MOVIES
-https://allinonereborn.in/jiobe2.m3u8?id=1731
-
-#EXTINF:-1 tvg-id="1748" tvg-logo="" group-title="KANNADA",ZEE KANNADA 4K
-https://allinonereborn.in/jiobe2.m3u8?id=1748
-
-#EXTINF:-1 tvg-id="4221" tvg-logo="" group-title="KANNADA",AASTHA KANNADA
-https://allinonereborn.in/jiobe2.m3u8?id=4221
-
-#EXTINF:-1 tvg-id="1737" tvg-logo="" group-title="KANNADA",COLORS KANNADA 4K
+#EXTINF:-1 tvg-id="colorskannadahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
 https://allinonereborn.in/jiobe2.m3u8?id=1737
-
-#EXTINF:-1 tvg-id="1738" tvg-logo="" group-title="KANNADA",COLORS KANNADA UK
-https://allinonereborn.in/jiobe2.m3u8?id=1738
-
-#EXTINF:-1 tvg-id="1744" tvg-logo="" group-title="KANNADA",COLORS KANNADA MOVIES
-https://allinonereborn.in/jiobe2.m3u8?id=1744
-
-#EXTINF:-1 tvg-id="7852" tvg-logo="" group-title="KANNADA",COLORS SUPER HD
-https://allinonereborn.in/jiobe2.m3u8?id=7852
-
-#EXTINF:-1 tvg-id="25558" tvg-logo="" group-title="KANNADA",COLORS KANNADA USA
-https://allinonereborn.in/jiobe2.m3u8?id=25558
-
-#EXTINF:-1 tvg-id="1750" tvg-logo="" group-title="KANNADA",SVBC 3 TTD
-https://allinonereborn.in/jiobe2.m3u8?id=1750
-
-#EXTINF:-1 tvg-id="1728" tvg-logo="" group-title="KANNADA",HUNGAMA SAKKAT HD
-https://allinonereborn.in/jiobe2.m3u8?id=1728
-
-#EXTINF:-1 tvg-id="1733" tvg-logo="" group-title="KANNADA",ASIANET SUVARNA NEWS
-https://allinonereborn.in/jiobe2.m3u8?id=1733
-
-#EXTINF:-1 tvg-id="1670" tvg-logo="" group-title="KANNADA",RAJ NEWS KANNADA
-https://allinonereborn.in/jiobe2.m3u8?id=1670
-
-#EXTINF:-1 tvg-id="1740" tvg-logo="" group-title="KANNADA",RAJ MUSIC KANNADA
-https://allinonereborn.in/jiobe2.m3u8?id=1740
-
-#EXTINF:-1 tvg-id="1741" tvg-logo="" group-title="KANNADA",PRAAJA TV
-https://allinonereborn.in/jiobe2.m3u8?id=1741
-
-#EXTINF:-1 tvg-id="12264" tvg-logo="" group-title="KANNADA",NEWS 1ST
-https://allinonereborn.in/jiobe2.m3u8?id=12264
-
-#EXTINF:-1 tvg-id="12432" tvg-logo="" group-title="KANNADA",DANGAL KANNADA
-https://allinonereborn.in/jiobe2.m3u8?id=12432
-
-#EXTINF:-1 tvg-id="1730" tvg-logo="" group-title="KANNADA",ALL TIME
-https://allinonereborn.in/jiobe2.m3u8?id=1730
-
-#EXTINF:-1 tvg-id="1745" tvg-logo="" group-title="KANNADA",DIGHVIJAY NEWS
-https://allinonereborn.in/jiobe2.m3u8?id=1745
-
-#EXTINF:-1 tvg-id="1746" tvg-logo="" group-title="KANNADA",TV5 NEWS KANNADA
-https://allinonereborn.in/jiobe2.m3u8?id=1746
-
-#EXTINF:-1 tvg-id="1747" tvg-logo="" group-title="KANNADA",NEWS 18 KANNADA
+#EXTINF:-1 tvg-id="zeekannadahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png",Zee Kannada HD
+https://allinonereborn.in/jiobe2.m3u8?id=1748
+#EXTINF:-1 tvg-id="udayahd.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png",Udaya TV HD
+https://allinonereborn.in/jiobe2.m3u8?id=1732
+#EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Suvarna.png",Star Suvarna HD
+https://allinonereborn.in/jiobe2.m3u8?id=1735
+#EXTINF:-1 tvg-id="news18kannada.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png",News18 Kannada
 https://allinonereborn.in/jiobe2.m3u8?id=1747
-
-#EXTINF:-1 tvg-id="1749" tvg-logo="" group-title="KANNADA",TV9 KANNADA
+#EXTINF:-1 tvg-id="tv9-kannada.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png",Tv9 Kannada
 https://allinonereborn.in/jiobe2.m3u8?id=1749
-
-#EXTINF:-1 tvg-id="1751" tvg-logo="" group-title="KANNADA",PUBLIC TV
+#EXTINF:-1 tvg-id="publictv.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png",Public TV
 https://allinonereborn.in/jiobe2.m3u8?id=1751
-
-#EXTINF:-1 tvg-id="1752" tvg-logo="" group-title="KANNADA",DD CHANDANA
+#EXTINF:-1 tvg-id="TataKannada" group-title="Kannada" tvg-logo="",Tata Kannada Cinema
+https://allinonereborn.in/jiobe2.m3u8?id=14719
+#EXTINF:-1 tvg-id="SuvarnaPlus" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",Star Suvarna Plus
+https://allinonereborn.in/jiobe2.m3u8?id=1736
+#EXTINF:-1 tvg-id="starsuvarnahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Suvarna.png",Star Suvarna HD
+https://allinonereborn.in/jiobe2.m3u8?id=1734
+#EXTINF:-1 tvg-id="Discovery" group-title="Kannada" tvg-logo="",Discovery World 4K
+https://allinonereborn.in/jiobe2.m3u8?id=8339
+#EXTINF:-1 tvg-id="starsports1kannada.in" group-title="Kannada" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Star-Sports-1-Kannadas.jpg",Star Sports 1 Kannada
+https://allinonereborn.in/jiobe2.m3u8?id=8469
+#EXTINF:-1 tvg-id="kasthuri.in" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kasthuri.png",Kasthuri News
+https://allinonereborn.in/jiobe2.m3u8?id=12523
+#EXTINF:-1 tvg-id="kasthuri.in" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kasthuri.png",Kasthuri TV
+https://allinonereborn.in/jiobe2.m3u8?id=1739
+#EXTINF:-1 tvg-id="udayacomedy.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Comedy.png",Udaya Comedy
+https://allinonereborn.in/jiobe2.m3u8?id=1729
+#EXTINF:-1 tvg-id="udayamusic.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png",Udaya Music
+https://allinonereborn.in/jiobe2.m3u8?id=1743
+#EXTINF:-1 tvg-id="udayamovies.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png",Udaya Movies
+https://allinonereborn.in/jiobe2.m3u8?id=1731
+#EXTINF:-1 tvg-id="Aastha" group-title="Kannada" tvg-logo="",Aastha Kannada
+https://allinonereborn.in/jiobe2.m3u8?id=4221
+#EXTINF:-1 tvg-id="colorskannadahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
+https://allinonereborn.in/jiobe2.m3u8?id=1738
+#EXTINF:-1 tvg-id="colorskannadacinema.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",Colors Kannada Cinema
+https://allinonereborn.in/jiobe2.m3u8?id=1744
+#EXTINF:-1 tvg-id="colorssuper.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",Colors Super
+https://allinonereborn.in/jiobe2.m3u8?id=7852
+#EXTINF:-1 tvg-id="colorskannadahd.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
+https://allinonereborn.in/jiobe2.m3u8?id=25558
+#EXTINF:-1 tvg-id="SVBC3" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SVBC-3.png",SVBC 3
+https://allinonereborn.in/jiobe2.m3u8?id=1750
+#EXTINF:-1 tvg-id="1245" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png",Sakkat
+https://allinonereborn.in/jiobe2.m3u8?id=1728
+#EXTINF:-1 tvg-id="suvarnanews24x7.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png",Suvarna News 24x7
+https://allinonereborn.in/jiobe2.m3u8?id=1733
+#EXTINF:-1 tvg-id="rajnewskannada.in" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News-Kannada.png",Raj News Kannada
+https://allinonereborn.in/jiobe2.m3u8?id=1670
+#EXTINF:-1 tvg-id="rajmusixkannada.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png",Raj Music Kannada
+https://allinonereborn.in/jiobe2.m3u8?id=1740
+#EXTINF:-1 tvg-id="PrajaaTV" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prajaa_TV.png",Prajaa TV
+https://allinonereborn.in/jiobe2.m3u8?id=1741
+#EXTINF:-1 tvg-id="1555" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/News-1st.png",News 1st Kannada
+https://allinonereborn.in/jiobe2.m3u8?id=12264
+#EXTINF:-1 tvg-id="Dangal" group-title="Kannada" tvg-logo="",Dangal Kannada
+https://allinonereborn.in/jiobe2.m3u8?id=12432
+#EXTINF:-1 tvg-id="SIRIKANNADA" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SIRI-KANNADA.png",Sirikannada All Time
+https://allinonereborn.in/jiobe2.m3u8?id=1730
+#EXTINF:-1 tvg-id="DaijiworldTV" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png",Daijiworld TV
+https://allinonereborn.in/jiobe2.m3u8?id=1745
+#EXTINF:-1 tvg-id="tv5kannada.in" group-title="Kannada" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-Kannada.png",TV5 Kannada
+https://allinonereborn.in/jiobe2.m3u8?id=1746
+#EXTINF:-1 tvg-id="ddchandana.in" group-title="Kannada" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/DD-Chandana.png",DD Chandana
 https://allinonereborn.in/jiobe2.m3u8?id=1752
-
-#EXTINF:-1 tvg-id="1753" tvg-logo="" group-title="KANNADA",BTV NEWS
+#EXTINF:-1 tvg-id="btvi.in" group-title="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png",BTV
 https://allinonereborn.in/jiobe2.m3u8?id=1753
-
-#EXTINF:-1 tvg-id="7854" tvg-logo="" group-title="KANNADA",KALKI TV
+#EXTINF:-1 tvg-id="Kalki" group-title="Kannada" tvg-logo="",Kalki TV
 https://allinonereborn.in/jiobe2.m3u8?id=7854
-
-#EXTINF:-1 tvg-id="7855" tvg-logo="" group-title="KANNADA",PUBLIC MUSIC
+#EXTINF:-1 tvg-id="publicmusic.in" group-title="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png",Public Music
 https://allinonereborn.in/jiobe2.m3u8?id=7855
-
-#EXTINF:-1 tvg-id="7880" tvg-logo="" group-title="KANNADA",SONIC NICKLODEON IN
+#EXTINF:-1 tvg-id="Sonic" group-title="Kannada" tvg-logo="",Sonic Nicklodeon In
 https://allinonereborn.in/jiobe2.m3u8?id=7880
-
-#EXTINF:-1 tvg-id="41819" tvg-logo="" group-title="KANNADA",NATIONAL GEOGRAPHIC KAN 4K
+#EXTINF:-1 tvg-id="National" group-title="Kannada" tvg-logo="",National Geographic Kannada
 https://allinonereborn.in/jiobe2.m3u8?id=41819
+
 
 
 #EXTINF:-1 tvg-id="6290" tvg-logo="" group-title="KANNADA1 | TV",ZEE TV KANNADA
